@@ -1,0 +1,81 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/ccu002_02-limb-amputation---nonstandard.py
+inputModule3:
+  class: File
+  path: python/ccu002_02-limb-amputation-disarticulation---nonstandard.py
+inputModule4:
+  class: File
+  path: python/ccu002_02-limb-amputation-midfoot---nonstandard.py
+inputModule5:
+  class: File
+  path: python/above-ccu002_02-limb-amputation---nonstandard.py
+inputModule6:
+  class: File
+  path: python/upper-ccu002_02-limb-amputation---nonstandard.py
+inputModule7:
+  class: File
+  path: python/ccu002_02-limb-amputation-metatarsal---nonstandard.py
+inputModule8:
+  class: File
+  path: python/ccu002_02-limb-amputation-lesser---nonstandard.py
+inputModule9:
+  class: File
+  path: python/ccu002_02-limb-amputation-terminalisation---nonstandard.py
+inputModule10:
+  class: File
+  path: python/partial-ccu002_02-limb-amputation---nonstandard.py
+inputModule11:
+  class: File
+  path: python/ccu002_02-limb-amputation-reeducation---nonstandard.py
+inputModule12:
+  class: File
+  path: python/ccu002_02-limb-amputation-amputee---nonstandard.py
+inputModule13:
+  class: File
+  path: python/ccu002_02-limb-amputation-forefoot---nonstandard.py
+inputModule14:
+  class: File
+  path: python/ccu002_02-limb-amputation-phalanx---nonstandard.py
+inputModule15:
+  class: File
+  path: python/limb---nonstandard.py
+inputModule16:
+  class: File
+  path: python/ccu002_02-limb-amputation-hindquarter---nonstandard.py
+inputModule17:
+  class: File
+  path: python/right-ccu002_02-limb-amputation---nonstandard.py
+inputModule18:
+  class: File
+  path: python/ccu002_02-limb-amputation-thigh---nonstandard.py
+inputModule19:
+  class: File
+  path: python/ccu002_02-limb-amputation-prosthesis---nonstandard.py
+inputModule20:
+  class: File
+  path: python/ccu002_02-limb-amputation-practice---nonstandard.py
+inputModule21:
+  class: File
+  path: python/ccu002_02-limb-amputation-hallux---nonstandard.py
+inputModule22:
+  class: File
+  path: python/ccu002_02-limb-amputation-stump---nonstandard.py
+inputModule23:
+  class: File
+  path: python/below-ccu002_02-limb-amputation---nonstandard.py
+inputModule24:
+  class: File
+  path: python/ccu002_02-limb-amputation-ankle---nonstandard.py
+inputModule25:
+  class: File
+  path: python/lower-ccu002_02-limb-amputation---nonstandard.py
+inputModule26:
+  class: File
+  path: python/output-cases.py
